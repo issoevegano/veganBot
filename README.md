@@ -14,10 +14,10 @@ Is a project to help people find vegan products in a easy way.
 
 * Talking to veganBot will be like asking suggestions to a vegan friend
 
-This is an open source project and is still a prototype, so to work properly and help everyone, needs collaboration.
+**This is an open source project and is still a prototype, so to work properly and help everyone, needs collaboration.**
 
 ## How to contribute
-This project is completely open and collaborative, so everyone can contribute:
+This project is completely open and collaborative, so everyone can contribute :green_heart: :
 * If you have a list of products or know some products that are vegan, **share [here](https://docs.google.com/spreadsheets/d/1R8rAPOaEdo4ohI93GwPQhaQQvJXprzOlma5JwSknx9M/edit?usp=sharing)**
 * If you are a developer and can help with your technical knowledge, **check [here](CONTRIBUTING.md)**
 * If you want to help organize the communication between the list and the chatbot, or want to know others ways you can help, send a email to ***issoevegano@gmail.com***
