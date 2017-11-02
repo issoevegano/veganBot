@@ -8,6 +8,7 @@ The project is divided in two parts: the API, where we register all the products
 ## Bot
 The code for the bot is **[HERE](https://github.com/issoevegano/veganoBot)**
 * Is written in JavaScript
+* Uses [Dialogflow](https://dialogflow.com/) to handle NLP and interact with what the user says
 
 ## API
 The code for the API is **[HERE](https://github.com/issoevegano/isso-e-vegano-api)**
@@ -15,4 +16,4 @@ The code for the API is **[HERE](https://github.com/issoevegano/isso-e-vegano-ap
 
 ## More details [IN CONSTRUCTION]
 I'm still organizing an way to run and test everything, to make easy to anyone contribute, but is a work in progress.
-If you have more experience and/or want to help with this, talk to me! - [Camila](camilaavilarinho@gmail.com)
+If you have more experience and/or want to help with this, talk to me! - [Camila](https://github.com/camilaavilarinho)
